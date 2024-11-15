@@ -12,6 +12,7 @@ int main(){
     printf("2 - Diferenca do maior pelo menor\n");
     printf("3 - Produto entre os numeros digitados\n");
     printf("4 - Divisao do primeiro pelo segundo\n");
+    printf("Escolha: ");
     scanf("%i", &resposta);
     printf("Resposta: ") ;
     
